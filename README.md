@@ -1,2 +1,6 @@
 # hello-world
-Just a test repository !
+Hi there, developer from France here !
+
+Just here to say hello, and come on, let's work together =)
+
+G
